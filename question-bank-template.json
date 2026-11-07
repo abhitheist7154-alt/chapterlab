@@ -1,0 +1,43 @@
+{
+  "questions": [
+    {
+      "id": "my-physics-mcq-001",
+      "subject": "Physics",
+      "chapter": "Units and Dimensions",
+      "topic": "Dimensional analysis",
+      "type": "single",
+      "question": "Write a question you own or are authorised to publish.",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": 0,
+      "explanation": "Explain the correct answer.",
+      "source": "Your permitted source / attribution",
+      "year": "2025",
+      "session": "April",
+      "shift": "Shift 1",
+      "sourcePage": 5,
+      "questionNumber": "Q1"
+    },
+    {
+      "id": "my-physics-numeric-001",
+      "subject": "Physics",
+      "chapter": "Kinematics",
+      "topic": "Motion in a straight line",
+      "type": "numeric",
+      "question": "Write a numerical question you own or are authorised to publish.",
+      "answer": 16,
+      "tolerance": 1e-06,
+      "explanation": "Show the calculation.",
+      "source": "Your permitted source / attribution",
+      "year": "2025",
+      "session": "April",
+      "shift": "Shift 1",
+      "sourcePage": 10,
+      "questionNumber": "Q1"
+    }
+  ]
+}
