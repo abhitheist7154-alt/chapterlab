@@ -1,0 +1,56 @@
+{
+  "sources": [
+    {
+      "sourceId": "jee-main-2025-april-physics-mathongo",
+      "exam": "JEE Main",
+      "year": 2025,
+      "session": "April",
+      "subject": "Physics",
+      "sourceTitle": "JEE Main 2025 (April) Chapter-wise Qs Bank - Physics",
+      "providerOrCompiler": "MathonGo",
+      "uploadedFile": "Physics - JEE Main 2025 April Chapter-wise Question Bank - MathonGo.pdf",
+      "pageCount": 179,
+      "sections": {
+        "questions": { "startPage": 4, "endPage": 93 },
+        "answerKeyStartsAtPage": 94,
+        "solutions": { "startPage": 96, "endPage": 179 }
+      },
+      "chapters": [
+        "Mathematics in Physics",
+        "Units and Dimensions",
+        "Motion In One Dimension",
+        "Motion In Two Dimensions",
+        "Laws of Motion",
+        "Work Power Energy",
+        "Center of Mass Momentum and Collision",
+        "Rotational Motion",
+        "Gravitation",
+        "Mechanical Properties of Solids",
+        "Mechanical Properties of Fluids",
+        "Oscillations",
+        "Waves and Sound",
+        "Thermal Properties of Matter",
+        "Thermodynamics",
+        "Kinetic Theory of Gases",
+        "Electrostatics",
+        "Capacitance",
+        "Current Electricity",
+        "Magnetic Properties of Matter",
+        "Magnetic Effects of Current",
+        "Electromagnetic Induction",
+        "Alternating Current",
+        "Ray Optics",
+        "Wave Optics",
+        "Dual Nature of Matter",
+        "Atomic Physics",
+        "Nuclear Physics",
+        "Electromagnetic Waves",
+        "Semiconductors",
+        "Experimental Physics"
+      ],
+      "questionTextImported": false,
+      "status": "source-metadata-recorded",
+      "notes": "This records the source and chapter taxonomy only. Do not bundle or publish the PDF's question text, solutions, or figures unless the relevant rights holder has authorised republication. The current ChapterLab prototype also needs additional question-type support before it can represent every format in this source."
+    }
+  ]
+}
