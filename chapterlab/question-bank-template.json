@@ -1,0 +1,16 @@
+{
+  "questions": [
+    {
+      "id": "my-physics-001",
+      "subject": "Physics",
+      "chapter": "Kinematics",
+      "topic": "Motion in a straight line",
+      "question": "A sample question written by you goes here.",
+      "options": ["Option A", "Option B", "Option C", "Option D"],
+      "answer": 0,
+      "explanation": "Write a short explanation for the correct option.",
+      "source": "Your permitted source / attribution",
+      "year": "2026"
+    }
+  ]
+}

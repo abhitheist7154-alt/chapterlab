@@ -1,0 +1,41 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Build custom JEE practice tests from the chapters and topics you choose.">
+  <meta name="theme-color" content="#f7f8fa">
+  <title>ChapterLab — Practice, your way</title>
+  <link rel="stylesheet" href="styles.css">
+  <script defer src="questions.js"></script>
+  <script defer src="app.js"></script>
+</head>
+<body>
+  <div class="app-shell">
+    <header class="topbar">
+      <button class="brand" id="brand-home" type="button" aria-label="ChapterLab home">
+        <span class="brand-mark">C<span>L</span></span>
+        <span class="brand-name">chapterlab</span>
+        <span class="beta-tag">BETA</span>
+      </button>
+      <div class="topbar-actions">
+        <button class="button button-quiet button-small" id="import-bank-button" type="button" title="Load a custom question bank">
+          <span aria-hidden="true">＋</span> Import bank
+        </button>
+        <input id="bank-file-input" type="file" accept=".json,application/json" hidden>
+        <button class="icon-button" id="theme-toggle" type="button" aria-label="Switch theme" title="Switch theme">
+          <span id="theme-icon" aria-hidden="true">☾</span>
+        </button>
+      </div>
+    </header>
+
+    <main id="app" class="main-content" aria-live="polite"></main>
+
+    <footer class="footer">
+      <span>ChapterLab · A student-built JEE practice tool</span>
+      <span>Demo questions are original practice items, not official PYQs.</span>
+    </footer>
+  </div>
+  <div id="toast" class="toast" role="status" aria-live="polite"></div>
+</body>
+</html>
